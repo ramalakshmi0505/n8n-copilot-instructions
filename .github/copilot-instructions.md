@@ -4,6 +4,15 @@
 
 ---
 
+## 🚫 Things Copilot Should NEVER Do
+
+- Never suggest hardcoded credentials or API keys
+- Never suggest deprecated n8n node types
+- Never suggest synchronous HTTP calls without timeout
+- Never generate workflows without error handling
+- Never use `console.log` in production code — use structured logging
+- Never suggest storing sensitive data in workflow variables
+
 ## 🧠 Project Context
 
 This repository contains n8n workflow automations, AI agent configurations, and integrations
