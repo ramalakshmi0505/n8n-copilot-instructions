@@ -1,0 +1,20 @@
+# Secrets — never commit!
+.env
+*.env
+*.key
+*.pem
+
+# n8n exports with credentials
+*credentials*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
