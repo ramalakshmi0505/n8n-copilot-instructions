@@ -1,9 +1,9 @@
-# 🤖 n8n Workflows — GitHub Copilot Instructions
+# 🤖 n8n Workflows - GitHub Copilot Instructions
 
 **Author:** Ramalakshmi Mani (Rama) | Senior Cloud & Platform Engineer @ BMW TechWorks
 
 This repo contains custom GitHub Copilot instructions tailored for **n8n workflow automation**
-development — covering AI agents, integrations, security, and platform engineering standards.
+development - covering AI agents, integrations, security, and platform engineering standards.
 
 ---
 
